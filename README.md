@@ -1,0 +1,2 @@
+# .github
+для readme
